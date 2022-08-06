@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akhilesh gautam
-- 👀 I’m interested in software development 
+- 👀 I’m interested in competetetive programming and software development 
 - 🌱 I’m currently learning blockchain dev and machine learning
-- 💞️ I’m looking to collaborate on ...
+<!- 💞️ I’m looking to collaborate on ...-->
 - 📫 How to reach me ...akhileshgautam50@gmail.com
 
 <!---
